@@ -1,2 +1,3 @@
 # My_Repo
-This is a test repository
+This repository contains the Testing Data for the project
+Author :-- Durgesh
